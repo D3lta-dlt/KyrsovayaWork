@@ -19,3 +19,6 @@
 
 ## API
 Данные берутся с `https://www.cbr-xml-daily.ru/daily_json.js`
+
+# Асинема клонирование
+https://asciinema.org/a/c4iPz0ZDDIkzJtv5
